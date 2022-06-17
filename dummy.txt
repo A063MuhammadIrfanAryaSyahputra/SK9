@@ -1,0 +1,8 @@
+===========================================
+|| Jenis Buku   || Judul Buku || Penulis   ||
+|| Novel        || matahari   || Tere Liye ||
+|| Novel        || 
+============================================
+Mencari Buku: (berdasarkan judul)
+
+Input :
